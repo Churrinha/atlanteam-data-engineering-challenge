@@ -1,4 +1,3 @@
-%md
 # Documentação do Projeto: Pipeline de Dados NYC Yellow Taxi
 
 ## 1. Objetivo do Projeto
